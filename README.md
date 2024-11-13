@@ -1,4 +1,4 @@
-### portfolio fokir 
+# portfolio fokir 
 simple landing page using Html5,css(float,animation),font awesome and google fonts
 
 ## screenshot
